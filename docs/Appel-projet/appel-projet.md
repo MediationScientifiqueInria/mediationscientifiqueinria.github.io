@@ -1,12 +1,12 @@
 ---
-title: Pages des appel à projets
-description: Retrouvez toutes les differents appel à projet (ANR).
+title: Appels à projet
+description: Retrouvez toutes les différents appels à projet
 hide:
   - navigation
   - toc
 ---
 
-# Les appel à projets 
+# Les appels à projet
 
 Science avec et pour la société : c'est sous ce titre ou l'acronyme correspondant SAPS qu'est prévu un ensemble de mesures incitatives, distinctes et complémentaires, portées soit par l'Agence nationale de la recherche (ANR) soit directement par le ministère de tutelle (MESRI).
 
@@ -36,10 +36,9 @@ Expertise scientifique en appui aux politiques publiques (SAPS-RA-ESPP)
 
 ## Appels ANR en complément des AAPG
  
+!!! note "Les projets ANR de la médiation scientifique Inria sont lauréats"
 
-!!! note "Les projets ANR de la médiation scientifique Inria lauréats"
-
-    projet Medianum déposé par la médiation scientifique Inria en réponse à l’appel à projets ANR-SAPS 18-19. Sur les trois prochaines années, les projets lauréats de l’ANR en 2018 et 2019 pourront ainsi bénéficier de la réalisation et de la diffusion d’un programme de l'Esprit TV autour de leur sujet de recherche, selon les divers formats proposés dans Médianum . [En savoir plus](https://intranet.inria.fr/Actualite/L-Esprit-Sorcier-maintenant-une-chaine-TV).
+    Le projet Medianum déposé par la Médiation Scientifique Inria en réponse à l’appel à projets ANR-SAPS 18-19. Sur les trois prochaines années, les projets lauréats de l’ANR en 2018 et 2019 pourront ainsi bénéficier de la réalisation et de la diffusion d’un programme de l'Esprit TV autour de leur sujet de recherche, selon les divers formats proposés dans Medianum . [En savoir plus](https://intranet.inria.fr/Actualite/L-Esprit-Sorcier-maintenant-une-chaine-TV).
 
 En parallèle, l'ANR a prévu de lancer des appels dédiés, afin de financer des actions de médiation scientifique valorisant les résultats de projets de recherche financés par l'ANR lors de ses appels à projets précédents.
 
@@ -73,4 +72,4 @@ La stratégie « science - société » adoptée devra proposer des actions dans
 
 - Axe 4 - Participation citoyenne à la recherche
 
-Les binômes de médiation des centres sont en général déjà très actifs dans leur écosystème local. Ils pourront apporter leur appui afin que les universités partenaires d'Inria demandent et obtiennent ce label, en incluant dans leur stratégie des propositions concernant les sciences du numérique.
+Les binômes de Médiation Scientifique des centres sont très actifs dans leur écosystème local. Ils pourront apporter leur appui afin que les universités partenaires d'Inria demandent et obtiennent ce label, en incluant dans leur stratégie des propositions concernant les sciences du numérique.
