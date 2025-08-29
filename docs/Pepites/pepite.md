@@ -11,7 +11,7 @@ hide:
 ## Jeux de rôle
 
 Avec Jouer à Débattre, l’Arbre Des Connaissances met à la disposition gratuite des professionnels de l’éducation et de la culture des supports pédagogiques pour intéresser autrement les jeunes (dès 13 ans) aux sciences et les initier au débat citoyen, grâce à une approche ludique et transdisciplinaire.
-Dans la série Jeu A Débattre (JAD) Intelligence Artificielle, un nouvel épisode avec la sécurité sanitaire , conçu avec les chercheurs Cédric Lauradoux de équipe PRIVATICS, Centre Inria de l'Université Grenoble Alpes et Carole Adam (équipe STEAMER, LIG, Université Grenoble Alpes).
+Dans la série Jeu A Débattre (JAD) Intelligence Artificielle, un nouvel épisode avec la sécurité sanitaire , conçu avec les chercheurs Cédric Lauradoux de équipe PRIVATICS, Centre Inria de l'Université Grenoble Alpes et Carole Adam (équipe STEAMER, LIG, Université Grenoble Alpes). 
 
 [en savoir plus](https://pixees.fr/jeu-a-debattre-en-ia-nouvel-episode-la-securite-sanitaire/)
 
