@@ -1,6 +1,6 @@
 ---
-title: Pages avec nos partenaires 
-description: Retrouvez les partenaires avec qui nous menons des actions.
+title: Nos partenaires 
+description: Retrouvez nos partenaires.
 hide:
   - navigation
   - toc
@@ -8,7 +8,7 @@ hide:
 
 # Avec nos partenaires
 
-Quelques partenaires avec qui nous menons des actions communes. Cette liste est loin d'être exhaustive...
+Quelques partenaires avec qui nous menons des actions, cette liste est loin d'être exhaustive :
 <!-- TOC -->
 
 - [Avec nos partenaires](#avec-nos-partenaires)
@@ -38,17 +38,17 @@ Quelques partenaires avec qui nous menons des actions communes. Cette liste est 
 
 ## Des associations
 
-[Animath](https://www.animath.fr/) , présidence de l'association, implication dans l'organisation :  Olympiades des mathématiques, les Rencontres Jeunes mathématiciennes et informaticiennes (RJMI), des journées filles, math et informatique : une équation lumineuse, ...
+[Animath](https://www.animath.fr/), présidence de l'association, implication dans l'organisation :  Olympiades des mathématiques, les Rencontres Jeunes mathématiciennes et informaticiennes (RJMI), des journées filles, math et informatique : une équation lumineuse, ...
 
-[Arbre des Connaissances](https://arbre-des-connaissances-apsr.org/) , participation à l'écriture de jeux de la série "Jeu à Débattre" 
+[Arbre des Connaissances](https://arbre-des-connaissances-apsr.org/), participation à l'écriture de jeux de la série "Jeu à Débattre" 
 
-[Class'Code](https://www.class-code.fr/) , des collègues membres du conseil scientifique et comité stratégique, co- réalisations de Mooc
+[Class'Code](https://www.class-code.fr/), des collègues membres du conseil scientifique et comité stratégique, co-réalisations de Mooc
 
 [France IOI](https://www.france-ioi.org/) , un collègue co-fondateur et vice président
 
-[les ptits débrouillards](https://www.lespetitsdebrouillards.org/) , des collègues membres de conseil d'administration, 
+[Les ptits débrouillards](https://www.lespetitsdebrouillards.org/), des collègues membres de conseil d'administration, 
 
-[Math.en.Jeans](https://www.mathenjeans.fr/) , implication de collègues dans des ateliers MATh.en.JEANS,
+[Math.en.Jeans](https://www.mathenjeans.fr/), implication de collègues dans des ateliers MATh.en.JEANS,
 
 L’Association française pour l’éducation par la recherche (AFPER) porte le programme « [Savanturiers-Ecole de la Recherche](https://savanturiers.afper.org/)  »
 
