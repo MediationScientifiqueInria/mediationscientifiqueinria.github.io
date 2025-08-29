@@ -1,6 +1,6 @@
 ---
 title: Appels à projet
-description: Retrouvez toutes les différents appels à projet
+description: Retrouvez tous les différents appels à projet
 hide:
   - navigation
   - toc
@@ -11,10 +11,6 @@ hide:
 Science avec et pour la société : c'est sous ce titre ou l'acronyme correspondant SAPS qu'est prévu un ensemble de mesures incitatives, distinctes et complémentaires, portées soit par l'Agence nationale de la recherche (ANR) soit directement par le ministère de tutelle (MESRI).
 
 Cette synthèse a pour but d'aider à s'y retrouver : comprendre les spécificités des différents appels à projets, afin de savoir où, quand, comment se positionner.
-
-En mars 2021, l’Agence nationale de la recherche a lancé un appel à manifestation d’intérêt « AMI-SAPS ».  Afin qu'Inria soit identifié dans ce paysage,  la chargée de mission nationale pour la médiation scientifique Corinne Touati a déposé une lettre d'intention.
-
-La mobilisation de la communauté scientifique ainsi que des acteurs de la culture scientifique, technique et industrielle (CSTI) a été importante, près de 400 lettres d’intention ont été reçues et analysées par l'ANR.
 
 ## Appels ANR « Recherche-Action »
 
@@ -36,13 +32,9 @@ Expertise scientifique en appui aux politiques publiques (SAPS-RA-ESPP)
 
 ## Appels ANR en complément des AAPG
  
-!!! note "Les projets ANR de la médiation scientifique Inria sont lauréats"
+En parallèle, l'ANR a prévu de lancer des appels dédiés afin de financer des actions de médiation scientifique valorisant les résultats de projets de recherche financés par l'ANR lors de ses appels à projets précédents.
 
-    Le projet Medianum déposé par la Médiation Scientifique Inria en réponse à l’appel à projets ANR-SAPS 18-19. Sur les trois prochaines années, les projets lauréats de l’ANR en 2018 et 2019 pourront ainsi bénéficier de la réalisation et de la diffusion d’un programme de l'Esprit TV autour de leur sujet de recherche, selon les divers formats proposés dans Medianum . [En savoir plus](https://intranet.inria.fr/Actualite/L-Esprit-Sorcier-maintenant-une-chaine-TV).
-
-En parallèle, l'ANR a prévu de lancer des appels dédiés, afin de financer des actions de médiation scientifique valorisant les résultats de projets de recherche financés par l'ANR lors de ses appels à projets précédents.
-
-Ces appels s'adresseront exclusivement aux coordinateurs et coordinatrices des appels à projets génériques de 2018 à 2022. Ils s'étaleront jusqu'en septembre 2023. À partir de l'automne 2023, cet aspect sera directement intégré dans les AAPG.
+Ces appels se sont exclusivement adressés aux coordinateurs et coordinatrices des appels à projets génériques de 2018 à 2022, et se sont étalés jusqu'en septembre 2023. 
 
 Inria a répondu à l'[AAP](https://anr.fr/fr/detail/call/appel-saps-csti-generique-1819-science-avec-et-pour-la-societe-culture-scientifique-technique/) SAPS-CSTI-Générique 18/19 : Science avec et pour la société – Culture scientifique, technique et industrielle - AAPG2018 – AAPG2019 (second volet : "mobilisation des chercheurs et chercheuses pour la médiation scientifique) et à [celui de 2020](https://anr.fr/fr/detail/call/science-avec-et-pour-la-societe-culture-scientifique-technique-et-industrielle-aapg2020/). Tous les projets ANR des centres pour les années concernées (selon les Centres) sont éligibles. Contactez votre SCM, binôme scientifique ou la cellule nationale pour bénéficier d'un accompagnement à la promotion de vos résultats de recherche !
 
