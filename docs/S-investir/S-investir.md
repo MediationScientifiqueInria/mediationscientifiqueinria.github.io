@@ -1,5 +1,5 @@
 ---
-title: Pages comment s'investir 
+title: Comment s'investir ?
 description: Retrouvez toutes les explications sur les différentes manières de s'investir dans la médiation scientifique.
 hide:
   - navigation
