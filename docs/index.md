@@ -7,7 +7,7 @@ hide:
   - toc
 ---
 
-# Bienvenue à la médiation scientifique
+# Bienvenue à la Médiation Scientifique chez Inria
 
 **Le partage de culture scientifique est un besoin ressenti à la fois par le public et par les scientifiques. Il s'agit, au minimum, de vulgariser des concepts scientifiques… mais pas seulement ! Au-delà de la vulgarisation, il y a la médiation scientifique.**
 
@@ -42,7 +42,7 @@ Pour autant, éducation, vulgarisation, formation et médiation scientifique par
 
 - et plus généralement, établir un dialogue entre la société et les scientifiques.
 
-**Le réseau de médiation scientifique vous accompagne**
+**Le réseau de Médiation Scientifique vous accompagne**
 
 Le réseau accompagne les scientifiques en proposant des outils et expertises pour mettre en œuvre des actions de médiation :
 
@@ -65,7 +65,7 @@ Le réseau accompagne les scientifiques en proposant des outils et expertises po
 
 **Contacts**
 
-Au niveau national
+Au niveau national :
 
 **La cellule de la médiation scientifique**
 
