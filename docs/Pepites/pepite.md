@@ -36,12 +36,12 @@ Jean-Pierre Merlet, chercheur dans l'équipe Hephaistos du Centre Inria de l'Uni
 Savanturiers – École de la Recherche est un programme éducatif, développé par le Centre de Recherches Interdisciplinaires, qui rassemble les communautés éducatives et scientifiques pour développer l’éducation par la recherche. Le programme fait appel à des scientifiques volontaires (mentors) pour accompagner une classe dans la conduite d’un projet.
 Christine Azevedo-Coste, chercheuse dans l’équipe Camin du Centre Inria de l'Université Côte d'Azur a accompagné plusieurs classes. Dernier en date, celui avec des élèves de CM1-CM2 de l'Ecole Valfalis de Montbazin sur la thématique « Comment aider les personnes porteuses d’un handicap visuel grâce aux outils numériques ? ». Leur projet, Shoeshoe, a été lauréat de la Fondation Saint Pierre (Grand Prix de l’Innovation pour la santé de l’enfant dans la catégorie Idée).
 
-[Pour en savoir plus](https://pixees.fr/les-savanturiers-de-montbazin-laureat-du-grand-prix-de-linnovation-pour-la-sante-de-lenfant/)
+[Pour en savoir plus...](https://pixees.fr/les-savanturiers-de-montbazin-laureat-du-grand-prix-de-linnovation-pour-la-sante-de-lenfant/)
 
 ## Décryptage TIPE
 
-Le thème pour l’année 2024-2025 du TIPE commun aux filières BCPST, MP, MPI, PC, PSI, PT, TB, TPC et TSI des classes préparatoires est intitulé : [Transition, transformation, conversion](https://mediation-scientifique.gitlabpages.inria.fr/tipe-2024/).
+Le thème pour l’année 2025-2026 du TIPE commun aux filières BCPST, MP, MPI, PC, PSI, PT, TB, TPC et TSI des classes préparatoires est intitulé : [Cycles, boucles](https://mediation-scientifique.gitlabpages.inria.fr/tipe-2025/). 
 
-Le thème pour l’année 2025-2026 du TIPE commun aux filières BCPST, MP, MPI, PC, PSI, PT, TB, TPC et TSI des classes préparatoires est intitulé : [Cycles, boucle](https://mediation-scientifique.gitlabpages.inria.fr/tipe-2025/). 
+Le thème pour l’année 2024-2025 du TIPE commun aux filières BCPST, MP, MPI, PC, PSI, PT, TB, TPC et TSI des classes préparatoires était intitulé : [Transition, transformation, conversion](https://mediation-scientifique.gitlabpages.inria.fr/tipe-2024/).
 
 Chaque année Interstices et Pixees proposent des ressources autour des sciences du numérique, informatique et mathématiques. Un collègue scientifique coordonne un ensemble de productions scientifiques pour aider à décrypter la thématique.
