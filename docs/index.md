@@ -1,5 +1,5 @@
 ---
-title: Pages d'accueil
+title: Accueil
 description: Découvrez qui nous sommes, ce que nous faisons et où nous trouver.
 template: home.html
 hide:
