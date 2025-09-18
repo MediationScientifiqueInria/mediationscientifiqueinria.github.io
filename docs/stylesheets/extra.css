@@ -1,14 +1,14 @@
 :root {
-
   /* Primary color shades */
-  --md-primary-fg-color: #c9191e;
-  --md-primary-fg-color--light: #d95e61;
-  --md-primary-fg-color--dark: #c9191e;
+  --md-primary-fg-color: #27348b;
+  --md-primary-fg-color--light: #6870ae;
+  --md-primary-fg-color--dark: #27348b;
 
   /* Accent color shades */
-  --md-accent-fg-color: #27348b;
-  --md-accent-fg-color--light: #6870ae;
-  --md-accent-fg-color--dark: #27348b;
+  --md-accent-fg-color: #c9191e;
+  --md-accent-fg-color--light: #d95e61;
+  --md-accent-fg-color--dark: #c9191e;
+  
 
   --md-third-color: #a60f79;
   --md-third-color--light: #eccfe5;
@@ -272,4 +272,22 @@ html .md-footer-meta.md-typeset a {
 }
 .title-logo-rf_img img {
   max-width: 250px;
+}
+
+.card-intro {
+  background-color: var(--md-primary-fg-color--light);
+  box-shadow: 0px 10px 15px -3px rgba(0,0,0,0.4);
+  border-radius: 30px;
+  color: white;
+  padding: 30px;
+  text-align: center;
+}
+
+.card-intro p strong {
+  font-size: 20px;
+}
+
+#image-intro img {
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 4px 12px;
+  border-radius: 12px;
 }
