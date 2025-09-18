@@ -1,9 +1,21 @@
 /* HERO BANNER */
 .hero-banner {
-  background: #c00; /* Rouge Inria */
+  background: #27348b; /* Bleu Nuit Inria */
   color: #fff;
   padding: 80px 20px;
   text-align: center;
+  position: relative;
+}
+
+.hero-header {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+
+.hero-logo {
+  height: 60px;
+  width: auto;
 }
 
 .hero-banner h1 {
@@ -26,14 +38,14 @@
 .hero-banner .chantier {
   margin-top: 30px;
   font-style: italic;
-  color: #ffe0e0; /* plus clair pour contraste */
+  color: #d4d7e8; /* gris clair lisible sur bleu nuit */
 }
 
 /* IMAGE */
 .hero-image img {
-  max-width: 600px;   /* limite la largeur à 600px */
-  width: 100%;        /* s’adapte aux petits écrans */
-  height: auto;       /* garde les proportions */
+  max-width: 600px;
+  width: 100%;
+  height: auto;
   border-radius: 12px;
   margin: 20px 0 8px 0;
   box-shadow: 0 4px 12px rgba(0,0,0,0.3);
@@ -41,5 +53,5 @@
 
 .hero-image .credits {
   font-size: 0.9em;
-  color: #f2f2f2;
+  color: #d4d7e8;
 }
