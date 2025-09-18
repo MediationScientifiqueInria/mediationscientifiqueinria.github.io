@@ -1,6 +1,2 @@
 nav:
-    - "La médiation scientifique chez Inria ": index
-    - "Comment s'investir ?" : S-investir
-    - "Les appels à projet" : Appel-projet
-    - "Quelques pépites " : Pepites
-    - "Avec nos partenaires" : Partenaire
+    - "La médiation scientifique chez Inria ": index.md
