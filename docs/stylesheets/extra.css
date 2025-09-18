@@ -7,51 +7,22 @@
   position: relative;
 }
 
+/* Logo RF-Inria en haut à droite */
 .hero-header {
   position: absolute;
-  top: 15px;
-  right: 15px;
+  top: 20px;
+  right: 20px;
 }
 
 .hero-logo {
-  height: 40px;   /* réduit le logo */
-  width: auto;
-}
-
-.hero-banner h1 {
-  font-size: 2.2em;
-  margin: 20px 0 30px 0;
-}
-
-.hero-banner p {
-  font-size: 1.1em;
-  line-height: 1.6;
-  margin: 15px auto;
-  max-width: 800px;
-}
-
-.hero-banner .intro {
-  font-size: 1.2em;
-  font-weight: bold;
-}
-
-.hero-banner .chantier {
-  margin-top: 25px;
-  font-style: italic;
-  color: #d4d7e8; /* gris clair lisible sur bleu nuit */
-}
-
-/* IMAGE */
-.hero-image img {
-  max-width: 500px;  /* réduit encore un peu l’image */
-  width: 100%;
+  max-width: 140px;  /* taille réduite */
   height: auto;
-  border-radius: 12px;
-  margin: 20px 0 8px 0;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
 }
 
-.hero-image .credits {
-  font-size: 0.8em;
-  color: #d4d7e8;
+/* Footer logo Inria seul */
+.footer-logo img {
+  max-width: 100px;  /* discret */
+  height: auto;
+  margin-left: 15px;
+  vertical-align: middle;
 }
