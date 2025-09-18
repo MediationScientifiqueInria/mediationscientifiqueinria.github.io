@@ -2,13 +2,22 @@
 
 {% block content %}
 <section class="hero-banner">
+  <div class="hero-header">
+    <!-- Bloc-marque RF + Inria -->
+    <img src="{{ base_url }}/assets/RF-Inria_Logo_RVB.png" 
+         alt="Logo République Française - Inria" class="hero-logo">
+  </div>
+
   <div class="hero-inner">
     <h1>Bienvenue sur le Service Médiation Scientifique d’Inria</h1>
 
-    <!-- Illustration -->
+    <!-- Illustration avec WebP + JPEG fallback -->
     <div class="hero-image">
-      <img src="{{ base_url }}/assets/Inria-0393-068.jpg" 
-           alt="Illustration médiation scientifique">
+      <picture>
+        <source srcset="{{ base_url }}/assets/Inria-0393-068-optimized.webp" type="image/webp">
+        <img src="{{ base_url }}/assets/Inria-0393-068-optimized.jpg" 
+             alt="Illustration médiation scientifique" width="600">
+      </picture>
       <p class="credits">© Inria / Photo B. Fourrier</p>
     </div>
 
