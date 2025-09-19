@@ -291,6 +291,7 @@ html .md-footer-meta.md-typeset a {
 #image-intro img {
   box-shadow: rgba(0, 0, 0, 0.3) 0px 4px 12px;
   border-radius: 12px;
+  width: 600px;
 }
 
 #mailto {
