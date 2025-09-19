@@ -267,6 +267,7 @@ html .md-footer-meta.md-typeset a {
 
 .title-logo-rf {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
 
 }
