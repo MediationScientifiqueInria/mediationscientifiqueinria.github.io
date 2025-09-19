@@ -15,14 +15,14 @@ theme:
   language: fr
 
   features:
-    - navigation.tabs
-    - navigation.tabs.sticky
-    - navigation.sections
     - navigation.path
     - navigation.indexes
     - toc.integrate
     - navigation.top
     - navigation.footer
+    #- navigation.tabs
+    #- navigation.tabs.sticky
+    #- navigation.sections
 
 extra_css:
   - stylesheets/extra.css
