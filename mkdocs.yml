@@ -16,13 +16,13 @@ theme:
 
   features:
     #- navigation.path
-    #- navigation.indexes
+    - navigation.indexes
     #- navigation.top
     #- navigation.footer
     #- toc.integrate
     #- navigation.tabs
     #- navigation.tabs.sticky
-    #- navigation.sections
+    - navigation.sections
 
 extra_css:
   - stylesheets/extra.css
