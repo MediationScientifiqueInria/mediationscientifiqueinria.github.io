@@ -56,21 +56,18 @@
   <!-- Further information -->
   <div class="md-footer-meta md-typeset">
     <div class="md-footer-meta__inner md-grid">
-      {% include "partials/copyright.html" %}
 
-      <div class="md-copyright">
-        <a href="{{ base_url }}/Mention/mentions-legals">Mentions légales</a>
-      </div>
 
-      <div class="md-copyright logo-inria">
-        <img src="{{ base_url }}/assets/inr_logo_blanc.png" alt="logo Inria"/>
-      </div>
+        <div class="md-copyright logo-inria">
+            <img src="{{ base_url }}/assets/logo-inria-rf.png" alt="logo Inria" />
+        </div>
 
-      <!-- Social links -->
-      <!--         {% if config.extra.social %}
-          {% include "partials/social.html" %}
-        {% endif %} -->
+        <div class="md-copyright">
+            <a href="{{ base_url }}/Mention/mentions-legals">Mentions légales</a>
+        </div>
+        {% include "partials/copyright.html" %}
+
     </div>
-  </div>
+</div>
 </footer>
 {% endblock %}
