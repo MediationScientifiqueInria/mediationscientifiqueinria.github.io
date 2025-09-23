@@ -241,7 +241,8 @@ html .md-footer-meta.md-typeset a {
 }
 
 .logo-inria img {
-  height: 30px;
+  height: 70px;
+  border-radius: 5px;
 }
 
 /*position du figcaption images*/
@@ -300,3 +301,11 @@ html .md-footer-meta.md-typeset a {
     border-radius: 10px;
     box-shadow: rgba(0, 0, 0, 0.3) 0px 4px 12px;
 }
+
+/*Taille Logo*/
+.md-header__button.md-logo img, .md-header__button.md-logo svg {
+  height: 3rem;
+  }
+  .md-header {
+    background-color: white;
+  }

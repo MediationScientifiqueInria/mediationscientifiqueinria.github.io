@@ -4,7 +4,7 @@ theme:
   font:
     text: Roboto
 
-  logo: assets/robot-solid.svg
+  logo: assets/Inria-mediation.png
   favicon: assets/favicon.ico
   name: material
   custom_dir: src/overrides

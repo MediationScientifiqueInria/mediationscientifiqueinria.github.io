@@ -13,42 +13,42 @@
     <div>
         <div>
             <!-- Banner content -->
-            <div class="title-logo-rf">
+            <!--             <div class="title-logo-rf">
                 <div class="title-logo-rf_img">
                     <a href="https://www.inria.fr/fr"><img src="assets/RF-Inria_Logo_RVB.png" alt="Logo Republique Francaise Inria"></a>
                     
-                </div>
-                <h1>Comprendre, partager, transmettre !</h1>
-            </div>
-            <div>
-                <figure id="image-intro">
-                    <img src="assets/Inria-0338-075-HD.webp" alt="photo de l'espace d'exposition à Rocquencourt">
-                    <figcaption>© Inria / Photo B. Fourrier</figcaption>
-                </figure>
-                <div class="card-intro">
-                    <p><strong>Les sciences du numérique vont à la rencontre de tous·tes !</strong></p>
+                </div> -->
+            <h1>Comprendre, partager, transmettre !</h1>
+        </div>
+        <div>
+            <figure id="image-intro">
+                <img src="assets/Inria-0338-075-HD.webp" alt="photo de l'espace d'exposition à Rocquencourt">
+                <figcaption>© Inria / Photo B. Fourrier</figcaption>
+            </figure>
+            <div class="card-intro">
+                <p><strong>Les sciences du numérique vont à la rencontre de tous·tes !</strong></p>
 
-                    <p>Nous créons et partageons des ateliers, des expositions, des jeux et des ressources de médiation
-                        scientifique pour donner à tous et toutes envie de découvrir le monde fascinant des sciences et
-                        technologies du numérique.
-                    </p>
-                    <p>Que vous soyez curieux·se, enseignant·e, médiateur·rice ou simplement de passage, vous trouverez
-                        ici
-                        un
-                        aperçu de nos projets et de nos collaborations.
-                    </p>
-                    <p>👉 Le site est en chantier : de nouveaux contenus arrivent bientôt !</p>
-                    <div><a id="mailto" href="mailto:mediation-scientifique@inria.fr">Nous contacter</a></div>
-
-                </div>
-
+                <p>Nous créons et partageons des ateliers, des expositions, des jeux et des ressources de médiation
+                    scientifique pour donner à tous et toutes envie de découvrir le monde fascinant des sciences et
+                    technologies du numérique.
+                </p>
+                <p>Que vous soyez curieux·se, enseignant·e, médiateur·rice ou simplement de passage, vous trouverez
+                    ici
+                    un
+                    aperçu de nos projets et de nos collaborations.
+                </p>
+                <p>👉 Le site est en chantier : de nouveaux contenus arrivent bientôt !</p>
+                <div><a id="mailto" href="mailto:mediation-scientifique@inria.fr">Nous contacter</a></div>
 
             </div>
-
-
 
 
         </div>
+
+
+
+
+    </div>
     </div>
 </section>
 
@@ -62,20 +62,17 @@
     <!-- Further information -->
     <div class="md-footer-meta md-typeset">
         <div class="md-footer-meta__inner md-grid">
-            {% include "partials/copyright.html" %}
+
+
+            <div class="md-copyright logo-inria">
+                <img src="{{ base_url }}/assets/logo-inria-rf.png" alt="logo Inria" />
+            </div>
 
             <div class="md-copyright">
                 <a href="{{ base_url }}/Mention/mentions-legals">Mentions légales</a>
             </div>
+            {% include "partials/copyright.html" %}
 
-            <div class="md-copyright logo-inria">
-                <img src="{{ base_url }}/assets/inr_logo_blanc.png" alt="logo Inria" />
-            </div>
-
-            <!--             Social links
-            {% if config.extra.social %}
-            {% include "partials/social.html" %}
-            {% endif %} -->
         </div>
     </div>
 </footer>
