@@ -240,9 +240,14 @@ html .md-footer-meta.md-typeset a {
   font-weight: normal;
 }
 
+/*Header logo et titre*/
 .logo-inria img {
   height: 70px;
   border-radius: 5px;
+}
+
+.md-ellipsis {
+  color: var(--md-accent-fg-color);
 }
 
 /*position du figcaption images*/

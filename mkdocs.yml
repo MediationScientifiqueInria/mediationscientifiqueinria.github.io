@@ -1,4 +1,4 @@
-site_name: Médiation scientifique - Inria 
+site_name: " "
 
 theme:
   font:
@@ -15,11 +15,11 @@ theme:
   language: fr
 
   features:
-    - navigation.path
-    - navigation.indexes
-    - toc.integrate
+    #- navigation.path
+    #- navigation.indexes
     - navigation.top
     - navigation.footer
+    #- toc.integrate
     #- navigation.tabs
     #- navigation.tabs.sticky
     #- navigation.sections
