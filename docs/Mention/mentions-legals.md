@@ -48,7 +48,7 @@ Pour toute question ou réclamation concernant le site ou ses contenus, vous pou
 
 **Adresse e-mail**: mediation-scientifique@inria.fr
 
-**Adresse postale**: Service Méédiation Scientifique, Inria, Domaine de Voluceau, Rocquencourt - B.P. 105, 78153 Le Chesnay Cedex - France.
+**Adresse postale**: Service Médiation Scientifique, Inria, Domaine de Voluceau, Rocquencourt - B.P. 105, 78153 Le Chesnay Cedex - France.
 
 
 ![Image](../assets/logo-inria-rf.png){ align=left width="400" }
