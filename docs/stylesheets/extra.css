@@ -327,3 +327,13 @@ html .md-footer-meta.md-typeset a:hover{
   .md-header {
     background-color: white;
   }
+  .md-header__button {
+    color: var(--md-accent-fg-color);
+  }
+
+  @media screen and (max-width: 76.2344em) {
+
+    .md-nav--primary .md-nav__title[for=__drawer]{
+      background-color: white;
+    }
+  }
