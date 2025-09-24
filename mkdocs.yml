@@ -2,7 +2,7 @@ site_name: Médiation scientifique - Inria
 
 theme:
   font:
-    text: Roboto
+    text: InriaSans-Regular
 
   logo: assets/Inria-mediation.png
   favicon: assets/favicon.ico
