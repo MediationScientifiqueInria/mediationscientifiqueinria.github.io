@@ -231,13 +231,24 @@ html {
 
 /* Color footer */
 .md-footer {
-  background-color: var(--md-primary-fg-color);
+  background-color: white;
+  box-shadow: 0 0 .2rem #0000001a, 0 .2rem .4rem #0003;
 }
+
 .md-copyright { 
   font-size: 14px;
+  color: var(--md-primary-fg-color);
 }
 html .md-footer-meta.md-typeset a { 
   font-weight: normal;
+  color: var(--md-third-color);
+}
+html .md-footer-meta.md-typeset a:hover{
+  color: var(--md-accent-fg-color);
+}
+/*Permet de retirer le filtre gris du footer*/
+.md-footer-meta{
+  background-color: transparent;
 }
 
 /*Header logo et titre*/
@@ -298,6 +309,8 @@ html .md-footer-meta.md-typeset a {
   box-shadow: rgba(0, 0, 0, 0.3) 0px 4px 12px;
   border-radius: 12px;
   width: 600px;
+  max-width: 350px;
+  object-fit: cover;
 }
 
 #mailto {
