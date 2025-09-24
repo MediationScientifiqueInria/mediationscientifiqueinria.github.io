@@ -257,10 +257,6 @@ html .md-footer-meta.md-typeset a:hover{
   border-radius: 5px;
 }
 
-.md-ellipsis {
-  color: var(--md-accent-fg-color);
-}
-
 /*position du figcaption images*/
 .md-typeset figure {
   position: relative;
@@ -309,7 +305,7 @@ html .md-footer-meta.md-typeset a:hover{
   box-shadow: rgba(0, 0, 0, 0.3) 0px 4px 12px;
   border-radius: 12px;
   width: 600px;
-  max-width: 350px;
+  max-height: 350px;
   object-fit: cover;
 }
 
@@ -331,9 +327,21 @@ html .md-footer-meta.md-typeset a:hover{
     color: var(--md-accent-fg-color);
   }
 
+  .md-header__title>.md-header__ellipsis {
+    display: none;
+  }
+
+  .md-ellipsis {
+    color: var(--md-primary-fg-color);
+  }
+
   @media screen and (max-width: 76.2344em) {
 
     .md-nav--primary .md-nav__title[for=__drawer]{
       background-color: white;
+    }
+
+    .md-header__title>.md-header__ellipsis {
+      display: contents;
     }
   }
