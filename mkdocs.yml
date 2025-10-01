@@ -1,6 +1,5 @@
 site_name: Médiation scientifique - Inria
-site_url: https://mediation-scientifique.inria.fr/staging/
-site_dir: staging
+
 
 theme:
   font:
