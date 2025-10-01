@@ -8,9 +8,10 @@ description: Retrouvez toutes les mentions légales du site de la Médiation Sci
 ## 1. Éditeur du site
 
 L'édition du site "**Médiation Scientifique**" est assurée par le service Médiation Scientifique d'Inria, dont le siège social est situé au Domaine de Voluceau, Rocquencourt - B.P. 105, 78153 Le Chesnay Cedex - France.
-
-> - **Création du site**: Flora Sanchez, pour le service Médiation Scientifique
-> - **Administration du site**: Flora Sanchez, pour le service Médiation Scientifique
+Création du site: Service Médiation Scientifique
+Administration du site: Service Médiation Scientifique
+> - **Création du site**: Service Médiation Scientifique
+> - **Administration du site**: Service Médiation Scientifique
 
 ## 2. Hébergement du site
 
