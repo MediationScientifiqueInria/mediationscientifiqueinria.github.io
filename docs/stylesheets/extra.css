@@ -362,7 +362,7 @@ li {
 
 .slideshow {
   position: relative;
-  padding-bottom: 52%;
+  padding-bottom: 50%;
   height: 0;
   overflow: hidden;
 }
