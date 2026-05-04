@@ -1,0 +1,6 @@
+# MkDocs build output
+site/
+
+# Fichiers d'administration locaux (ne jamais commiter)
+docs/admin/config.local.yml
+docs/admin/index.local.html

@@ -54,4 +54,18 @@ plugins:
     - awesome-pages
     - glightbox
     - table-reader
+    - blog:
+        blog_dir: ressources
+        blog_toc: true
+        post_date_format: long
+        post_url_format: "{slug}"
+        authors: false
+        pagination_per_page: 12
+    - blog:
+        blog_dir: actualites
+        blog_toc: true
+        post_date_format: long
+        post_url_format: "{slug}"
+        authors: false
+        pagination_per_page: 12
     # - search # necessary for search to work
