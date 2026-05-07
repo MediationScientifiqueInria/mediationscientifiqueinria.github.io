@@ -251,3 +251,102 @@ collections:
       - label: Contenu
         name: body
         widget: markdown
+
+  # ─── CALENDRIER ──────────────────────────────────────────────────────────
+  - name: calendrier
+    label: Calendrier
+    label_singular: Événement
+    folder: docs/evenements
+    create: true
+    slug: "{{date_debut}}-{{slug}}"
+    summary: "{{title}} — {{date_debut}}"
+    editor:
+      preview: false
+    fields:
+      - label: Publié
+        name: publie
+        widget: boolean
+        default: true
+
+      - label: Titre
+        name: title
+        widget: string
+
+      - label: Description
+        name: description
+        widget: text
+        required: false
+
+      - label: Date de début
+        name: date_debut
+        widget: datetime
+        format: YYYY-MM-DD
+        date_format: DD/MM/YYYY
+        time_format: false
+
+      - label: Heure de début
+        name: heure_debut
+        widget: string
+        required: false
+        hint: "Format conseillé : HH:MM"
+
+      - label: Date de fin
+        name: date_fin
+        widget: datetime
+        format: YYYY-MM-DD
+        date_format: DD/MM/YYYY
+        time_format: false
+        required: false
+
+      - label: Heure de fin
+        name: heure_fin
+        widget: string
+        required: false
+        hint: "Format conseillé : HH:MM"
+
+      - label: Lieu
+        name: lieu
+        widget: string
+        required: false
+
+      - label: Type
+        name: type
+        widget: select
+        options:
+          - Atelier
+          - Conférence
+          - Exposition
+          - Rencontre
+          - Formation
+          - Événement
+          - Autre
+        default: Événement
+        required: false
+
+      - label: Public
+        name: public
+        widget: list
+        required: false
+        hint: "Ex : grand public, scolaires, enseignants..."
+
+      - label: Centre / Territoire
+        name: territoire
+        widget: string
+        required: false
+
+      - label: Lien
+        name: lien
+        widget: string
+        required: false
+        hint: "URL vers l'inscription ou la page de l'événement"
+
+      - label: Libellé du lien
+        name: libelle_lien
+        widget: string
+        default: En savoir plus
+        required: false
+
+      - label: Notes internes
+        name: body
+        widget: markdown
+        required: false

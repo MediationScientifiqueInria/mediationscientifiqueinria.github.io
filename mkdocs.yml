@@ -1,5 +1,7 @@
 site_name: Médiation scientifique - Inria
 
+exclude_docs: |
+  evenements/**
 
 theme:
   font:
@@ -29,6 +31,9 @@ extra_css:
   - stylesheets/extra.css
 extra_javascript:
   - javascripts/extra.js
+
+hooks:
+  - hooks/calendar_events.py
 
 
 
