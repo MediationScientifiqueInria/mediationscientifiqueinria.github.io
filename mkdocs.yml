@@ -27,10 +27,10 @@ theme:
 
 extra_css:
   - stylesheets/extra.css
+  - stylesheets/amma.css
 extra_javascript:
   - javascripts/extra.js
-
-
+  - javascripts/amma.js
 
 markdown_extensions:
   - admonition
