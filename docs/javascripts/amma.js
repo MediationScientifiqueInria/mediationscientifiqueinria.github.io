@@ -11,8 +11,8 @@
  * - Ne jamais mettre ici une clé service_role.
  */
 
-const SUPABASE_URL = "https://VOTRE-PROJET.supabase.co";
-const SUPABASE_ANON_KEY = "VOTRE_CLE_ANON";
+const SUPABASE_URL = "https://muzyvmdswsccrvntgann.supabase.co";
+const SUPABASE_ANON_KEY = "sb_publishable_ZqKhjZqSUBDygROcyc0EHw_ZRDDQIRQ";
 
 const AMMA_DEMO_MODE =
   SUPABASE_URL.includes("VOTRE-PROJET") ||
