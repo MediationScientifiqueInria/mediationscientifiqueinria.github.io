@@ -1,4 +1,4 @@
-# Réservation des massages AMMA au centre Inria Montbonnot
+# Réservation des massages AMMA - Inria Montbonnot
 
 <div class="amma-intro">
   <p>
