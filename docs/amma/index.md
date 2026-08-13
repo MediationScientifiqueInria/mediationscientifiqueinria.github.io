@@ -1,4 +1,4 @@
-# Massages AMMA au centre Inria Montbonnot — 2026
+# Réservation des massages AMMA au centre Inria Montbonnot
 
 <div class="amma-intro">
   <p>
